@@ -1,0 +1,31 @@
+@CHARSET "ISO-8859-1";
+
+.viewTransactionClass{
+	
+	margin-left:35%; 
+	border:2px blue solid; 
+	width:350px;
+	padding:20px;
+	background:rgba(200,200,200,0.2);
+}
+.CashMoneyTransfer input{
+	border-radius:25px;
+	border:1px solid black;
+	padding:5px;
+	width:200px;
+	height:15px;
+}
+.viewTransactionClass  input{
+	border-radius:25px;
+	border:1px solid black;
+	padding:5px;
+	width:200px;
+	height:25px;
+}
+
+.reqInput input{
+border:1px solid red;
+}
+.greenBorder input{
+	border:1px solid green;
+}

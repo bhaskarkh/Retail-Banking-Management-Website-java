@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+
+input{
+	border:2px solid blue;
+height:25px;
+border-radius:10%;}
+/* body{
+	background-image: url(/RetailBankingManagement/image/a3.jpg);
+} */

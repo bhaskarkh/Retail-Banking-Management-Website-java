@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+
+
+.AddCustomerClass input{
+	border-radius:25px;
+	border:1px solid black;
+	padding:5px;
+	width:200px;
+	height:15px;
+}
+.AddCustomerBox{
+	margin-left:20%;
+	
+	margin-right:20%;
+	margin-bottom:10%;
+	border-radius:20px;
+}
+.transferInputSubmitButton{
+	margin-left:50%;
+	width:70px;
+	
+	margin-top:10px;
+	
+}
+.transferOutputSubmitButton{
+	
+	 margin-left:30%;
+		width:70px;
+		margin-top:10px;
+}
+.reqInput input{
+border:1px solid red;
+}
+.greenBorder input{
+	border:1px solid green;
+}
